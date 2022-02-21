@@ -1,0 +1,989 @@
+{
+    "name": "Sci-Fi-Fantasy",
+    "files": [
+        {
+            "title": "Three Square Meals Ch. 100",
+            "file": "0.json"
+        },
+        {
+            "title": "Dream Drive Ch. 10",
+            "file": "1.json"
+        },
+        {
+            "title": "Flying Blind Ch. 07",
+            "file": "2.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 08 Ch. 13",
+            "file": "3.json"
+        },
+        {
+            "title": "A Dragon's Tale Ch. 29",
+            "file": "4.json"
+        },
+        {
+            "title": "The Keeper Ch. 38-41",
+            "file": "5.json"
+        },
+        {
+            "title": "Smitten Ch. 07",
+            "file": "6.json"
+        },
+        {
+            "title": "A Dragon's Tale Ch. 30",
+            "file": "7.json"
+        },
+        {
+            "title": "The Keeper Ch. 32-34",
+            "file": "8.json"
+        },
+        {
+            "title": "Lost Colony Ch. 14",
+            "file": "9.json"
+        },
+        {
+            "title": "The Infinite Bk. 03 Ch. 08",
+            "file": "10.json"
+        },
+        {
+            "title": "The Infinite Bk. 03 Ch. 04",
+            "file": "11.json"
+        },
+        {
+            "title": "Dry, No Lube Ch. 03: Disrupted",
+            "file": "12.json"
+        },
+        {
+            "title": "Idle Hands: Finale",
+            "file": "13.json"
+        },
+        {
+            "title": "Dry, No Lube Ch. 06: Skulduggery",
+            "file": "14.json"
+        },
+        {
+            "title": "Upon a Savage Shore Ch. 23",
+            "file": "15.json"
+        },
+        {
+            "title": "The Missing Dragon Ch. 05",
+            "file": "16.json"
+        },
+        {
+            "title": "Endangered Ch. 06",
+            "file": "17.json"
+        },
+        {
+            "title": "A Kiss is a Question",
+            "file": "18.json"
+        },
+        {
+            "title": "To Protect and Serve Ch. 12",
+            "file": "19.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 138",
+            "file": "20.json"
+        },
+        {
+            "title": "Breathless Ch. 06",
+            "file": "21.json"
+        },
+        {
+            "title": "Life as a New Hire Ch. 46",
+            "file": "22.json"
+        },
+        {
+            "title": "The Creators Ch. 01",
+            "file": "23.json"
+        },
+        {
+            "title": "Dream Drive Ch. 07",
+            "file": "24.json"
+        },
+        {
+            "title": "Queen Yavara Ch. 01",
+            "file": "25.json"
+        },
+        {
+            "title": "Nos Faux Ratu Ch. 08",
+            "file": "26.json"
+        },
+        {
+            "title": "Birds of Prey - Hetero Edition",
+            "file": "27.json"
+        },
+        {
+            "title": "It's a Dead Man's World Ch. 06",
+            "file": "28.json"
+        },
+        {
+            "title": "Sheffali's Caravan",
+            "file": "29.json"
+        },
+        {
+            "title": "The Best Medicine Ch. 05",
+            "file": "30.json"
+        },
+        {
+            "title": "A Dragon's Tale Ch. 26",
+            "file": "31.json"
+        },
+        {
+            "title": "TRC - Lord of the Glass Desert Ch. 10",
+            "file": "32.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 03 Ch. 12",
+            "file": "33.json"
+        },
+        {
+            "title": "Starlight Gleaming Ch. 20",
+            "file": "34.json"
+        },
+        {
+            "title": "Starlight Gleaming Ch. 19",
+            "file": "35.json"
+        },
+        {
+            "title": "Danica: Epilogue",
+            "file": "36.json"
+        },
+        {
+            "title": "Starlight Gleaming Ch. 21 Pt. 01",
+            "file": "37.json"
+        },
+        {
+            "title": "Talla's Temple Ch. 25",
+            "file": "38.json"
+        },
+        {
+            "title": "Danica Pt. 20",
+            "file": "39.json"
+        },
+        {
+            "title": "The Infinite Bk. 03 Ch. 06",
+            "file": "40.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 07 Ch. 11",
+            "file": "41.json"
+        },
+        {
+            "title": "Starlight Gleaming Ch. 21 Pt. 03",
+            "file": "42.json"
+        },
+        {
+            "title": "The Infinite Bk. 03 Ch. 03",
+            "file": "43.json"
+        },
+        {
+            "title": "The Infinite Bk. 03 Ch. 05",
+            "file": "44.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 07 Ch. 17",
+            "file": "45.json"
+        },
+        {
+            "title": "The Infinite Bk. 03 Ch. 07",
+            "file": "46.json"
+        },
+        {
+            "title": "The Creators Ch. 20",
+            "file": "47.json"
+        },
+        {
+            "title": "The Harem Tales Vol. 03 Ch. 14",
+            "file": "48.json"
+        },
+        {
+            "title": "A Demon Scorned Ch. 03",
+            "file": "49.json"
+        },
+        {
+            "title": "Confirming Carter Bk. 02 Daedalus Ch. 07",
+            "file": "50.json"
+        },
+        {
+            "title": "Macallan Promises",
+            "file": "51.json"
+        },
+        {
+            "title": "The Creators Ch. 15",
+            "file": "52.json"
+        },
+        {
+            "title": "Azra-El Series Arc 2 Ch. 01",
+            "file": "53.json"
+        },
+        {
+            "title": "The Vengeful Tide Ch. 21",
+            "file": "54.json"
+        },
+        {
+            "title": "Unconquered Pt. 16",
+            "file": "55.json"
+        },
+        {
+            "title": "The Vengeful Tide Ch. 20",
+            "file": "56.json"
+        },
+        {
+            "title": "Confirming Carter Bk. 03 Changes Ch. 03",
+            "file": "57.json"
+        },
+        {
+            "title": "The Preacher Man",
+            "file": "58.json"
+        },
+        {
+            "title": "Satyr Play",
+            "file": "59.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 078",
+            "file": "60.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 103",
+            "file": "61.json"
+        },
+        {
+            "title": "A Slave to the Servants Ch. 37",
+            "file": "62.json"
+        },
+        {
+            "title": "A Slave to the Servants Ch. 34",
+            "file": "63.json"
+        },
+        {
+            "title": "Westrons Pt. 11",
+            "file": "64.json"
+        },
+        {
+            "title": "Dream Drive Ch. 09",
+            "file": "65.json"
+        },
+        {
+            "title": "The Rask Rebellion",
+            "file": "66.json"
+        },
+        {
+            "title": "Breathless Ch. 05",
+            "file": "67.json"
+        },
+        {
+            "title": "Endangered Ch. 12",
+            "file": "68.json"
+        },
+        {
+            "title": "Black Velvet",
+            "file": "69.json"
+        },
+        {
+            "title": "Vannerbehn's Luck Pt. 12",
+            "file": "70.json"
+        },
+        {
+            "title": "Flying Blind Ch. 02",
+            "file": "71.json"
+        },
+        {
+            "title": "Flying Blind Ch. 03",
+            "file": "72.json"
+        },
+        {
+            "title": "The Wood Knot Warrior",
+            "file": "73.json"
+        },
+        {
+            "title": "Hell",
+            "file": "74.json"
+        },
+        {
+            "title": "It's a Dead Man's World Ch. 04",
+            "file": "75.json"
+        },
+        {
+            "title": "Smitten Ch. 05",
+            "file": "76.json"
+        },
+        {
+            "title": "Fourth Vector Ch. 16",
+            "file": "77.json"
+        },
+        {
+            "title": "Starlight Gleaming Ch. 10",
+            "file": "78.json"
+        },
+        {
+            "title": "Myka's Tail Ch. 03",
+            "file": "79.json"
+        },
+        {
+            "title": "Cam's Justice",
+            "file": "80.json"
+        },
+        {
+            "title": "All That Glitters Ch. 39",
+            "file": "81.json"
+        },
+        {
+            "title": "Starlight Gleaming Ch. 16",
+            "file": "82.json"
+        },
+        {
+            "title": "Conjunction",
+            "file": "83.json"
+        },
+        {
+            "title": "Starlight Gleaming Ch. 17",
+            "file": "84.json"
+        },
+        {
+            "title": "Might Have Been Ch. 08: Conclusion",
+            "file": "85.json"
+        },
+        {
+            "title": "Worlds Apart Pt. 02",
+            "file": "86.json"
+        },
+        {
+            "title": "The Naked Weapon Pt. 11",
+            "file": "87.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 04 Ch. 10",
+            "file": "88.json"
+        },
+        {
+            "title": "Mercury Retrograde",
+            "file": "89.json"
+        },
+        {
+            "title": "All That Glitters Ch. 43",
+            "file": "90.json"
+        },
+        {
+            "title": "Starlight Gleaming Ch. 18",
+            "file": "91.json"
+        },
+        {
+            "title": "Spell Book Ch. 04",
+            "file": "92.json"
+        },
+        {
+            "title": "Medusa: Fate's Game Ch. 14",
+            "file": "93.json"
+        },
+        {
+            "title": "Medusa: Fate's Game Ch. 13",
+            "file": "94.json"
+        },
+        {
+            "title": "Fourth Vector Ch. 43",
+            "file": "95.json"
+        },
+        {
+            "title": "Project - Prometheus Ch. 29",
+            "file": "96.json"
+        },
+        {
+            "title": "The Infinite Bk. 03 Ch. 02",
+            "file": "97.json"
+        },
+        {
+            "title": "Danica Pt. 16",
+            "file": "98.json"
+        },
+        {
+            "title": "To Walk the Constellations Pt. 15",
+            "file": "99.json"
+        },
+        {
+            "title": "Talla's Fallen Temple Ch. 27",
+            "file": "100.json"
+        },
+        {
+            "title": "Double Helix Ch. 20",
+            "file": "101.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 07 Ch. 15",
+            "file": "102.json"
+        },
+        {
+            "title": "The Brush Tiger of Derven Ch. 21-23",
+            "file": "103.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 08 Ch. 01",
+            "file": "104.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 08 Ch. 03",
+            "file": "105.json"
+        },
+        {
+            "title": "The Creators Ch. 14",
+            "file": "106.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 08 Ch. 11",
+            "file": "107.json"
+        },
+        {
+            "title": "Dry, No Lube Ch. 04b: Mutiny",
+            "file": "108.json"
+        },
+        {
+            "title": "Idle Hands Ch. 05",
+            "file": "109.json"
+        },
+        {
+            "title": "The Pirate King Ch. 12",
+            "file": "110.json"
+        },
+        {
+            "title": "Divinity Ch. 05",
+            "file": "111.json"
+        },
+        {
+            "title": "Dry, No Lube Ch. 05: Blitz",
+            "file": "112.json"
+        },
+        {
+            "title": "\u0394V Pt. 16",
+            "file": "113.json"
+        },
+        {
+            "title": "Junction Pt. 03",
+            "file": "114.json"
+        },
+        {
+            "title": "Unity and Destiny Pt. 06",
+            "file": "115.json"
+        },
+        {
+            "title": "Confirming Carter Bk. 02 Daedalus Ch. 04",
+            "file": "116.json"
+        },
+        {
+            "title": "Confirming Carter Bk. 02 Daedalus Ch. 06",
+            "file": "117.json"
+        },
+        {
+            "title": "Confirming Carter Bk. 03 Changes Ch. 07",
+            "file": "118.json"
+        },
+        {
+            "title": "Unity and Destiny Pt. 08",
+            "file": "119.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 053",
+            "file": "120.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 060",
+            "file": "121.json"
+        },
+        {
+            "title": "The Missing Dragon Ch. 04",
+            "file": "122.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 084",
+            "file": "123.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 079",
+            "file": "124.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 101",
+            "file": "125.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 094",
+            "file": "126.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 107",
+            "file": "127.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 071",
+            "file": "128.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 104",
+            "file": "129.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 059",
+            "file": "130.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 099",
+            "file": "131.json"
+        },
+        {
+            "title": "Life as a New Hire Ch. 16",
+            "file": "132.json"
+        },
+        {
+            "title": "A Slave to the Servants Ch. 25",
+            "file": "133.json"
+        },
+        {
+            "title": "Endangered Ch. 09",
+            "file": "134.json"
+        },
+        {
+            "title": "Life as a New Hire Ch. 34",
+            "file": "135.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 129",
+            "file": "136.json"
+        },
+        {
+            "title": "Endangered Ch. 10",
+            "file": "137.json"
+        },
+        {
+            "title": "A Slave to the Servants Ch. 35",
+            "file": "138.json"
+        },
+        {
+            "title": "A Slave to the Servants Ch. 36",
+            "file": "139.json"
+        },
+        {
+            "title": "A Slave to the Servants Ch. 32",
+            "file": "140.json"
+        },
+        {
+            "title": "Life as a New Hire Ch. 47",
+            "file": "141.json"
+        },
+        {
+            "title": "Life as a New Hire Ch. 39",
+            "file": "142.json"
+        },
+        {
+            "title": "What Feats He Did That Day Pt. 05",
+            "file": "143.json"
+        },
+        {
+            "title": "Going Feet First Ch. 06",
+            "file": "144.json"
+        },
+        {
+            "title": "Necromancer Chronicles Pt. 03",
+            "file": "145.json"
+        },
+        {
+            "title": "Dream Drive Ch. 04",
+            "file": "146.json"
+        },
+        {
+            "title": "Dream Drive Ch. 05",
+            "file": "147.json"
+        },
+        {
+            "title": "Westrons Pt. 13",
+            "file": "148.json"
+        },
+        {
+            "title": "Westrons Pt. 08",
+            "file": "149.json"
+        },
+        {
+            "title": "The Beast",
+            "file": "150.json"
+        },
+        {
+            "title": "Champions Vol. 01",
+            "file": "151.json"
+        },
+        {
+            "title": "Westrons Pt. 12",
+            "file": "152.json"
+        },
+        {
+            "title": "Westrons Pt. 14",
+            "file": "153.json"
+        },
+        {
+            "title": "A God Called Bruce Pt. 05",
+            "file": "154.json"
+        },
+        {
+            "title": "Sentient 03",
+            "file": "155.json"
+        },
+        {
+            "title": "Vannerbehn's Luck Pt. 13",
+            "file": "156.json"
+        },
+        {
+            "title": "Vannerbehn's Luck Pt. 08",
+            "file": "157.json"
+        },
+        {
+            "title": "Satyr Play 03 Pt. 01",
+            "file": "158.json"
+        },
+        {
+            "title": "The Leader",
+            "file": "159.json"
+        },
+        {
+            "title": "A Dragon's Tale Ch. 22",
+            "file": "160.json"
+        },
+        {
+            "title": "FOC - Uleni's Gamble 04",
+            "file": "161.json"
+        },
+        {
+            "title": "Succubus Awakens",
+            "file": "162.json"
+        },
+        {
+            "title": "Shadow Dagger Ch. 20",
+            "file": "163.json"
+        },
+        {
+            "title": "Necromancer Chronicles Pt. 10",
+            "file": "164.json"
+        },
+        {
+            "title": "It's a Dead Man's World Ch. 05",
+            "file": "165.json"
+        },
+        {
+            "title": "A Dragon's Tale Ch. 25",
+            "file": "166.json"
+        },
+        {
+            "title": "TRC - Lord of the Glass Desert Ch. 05",
+            "file": "167.json"
+        },
+        {
+            "title": "Firebrand",
+            "file": "168.json"
+        },
+        {
+            "title": "All That Glitters Ch. 40",
+            "file": "169.json"
+        },
+        {
+            "title": "Starlight Gleaming Ch. 14",
+            "file": "170.json"
+        },
+        {
+            "title": "Starlight Gleaming Ch. 15",
+            "file": "171.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 03 Ch. 08",
+            "file": "172.json"
+        },
+        {
+            "title": "TRC - Lord of the Glass Desert Ch. 15",
+            "file": "173.json"
+        },
+        {
+            "title": "Lost Colony Ch. 13",
+            "file": "174.json"
+        },
+        {
+            "title": "Ashley's Tale - Demon's World 06",
+            "file": "175.json"
+        },
+        {
+            "title": "All That Glitters Ch. 42",
+            "file": "176.json"
+        },
+        {
+            "title": "TRC - Lord of the Glass Desert Ch. 14",
+            "file": "177.json"
+        },
+        {
+            "title": "Guns and Dust Ch. 08",
+            "file": "178.json"
+        },
+        {
+            "title": "Return to Krell",
+            "file": "179.json"
+        },
+        {
+            "title": "The Eighth Warden Bk. 03 Ch. 35-36",
+            "file": "180.json"
+        },
+        {
+            "title": "TRC - Lord of the Glass Desert Ch. 16",
+            "file": "181.json"
+        },
+        {
+            "title": "The Naked Weapon Pt. 10",
+            "file": "182.json"
+        },
+        {
+            "title": "The Creators Ch. 07",
+            "file": "183.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 04 Ch. 12",
+            "file": "184.json"
+        },
+        {
+            "title": "Fourth Vector Ch. 35",
+            "file": "185.json"
+        },
+        {
+            "title": "Strange Days Ch. 61-65",
+            "file": "186.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 06 Ch. 08",
+            "file": "187.json"
+        },
+        {
+            "title": "Project - Prometheus Ch. 30",
+            "file": "188.json"
+        },
+        {
+            "title": "Know Thyself Ch. 09",
+            "file": "189.json"
+        },
+        {
+            "title": "Apocalypse Slaves Pt. 05",
+            "file": "190.json"
+        },
+        {
+            "title": "Dry, No Lube Ch. 02: Pixy's Choice",
+            "file": "191.json"
+        },
+        {
+            "title": "Danica Pt. 19",
+            "file": "192.json"
+        },
+        {
+            "title": "The Fallen Ch. 04",
+            "file": "193.json"
+        },
+        {
+            "title": "Dream Drive: Yuri Ch. 01",
+            "file": "194.json"
+        },
+        {
+            "title": "To Walk the Constellations Pt. 12",
+            "file": "195.json"
+        },
+        {
+            "title": "The Eighth Warden Bk. 04 Ch. 19-20",
+            "file": "196.json"
+        },
+        {
+            "title": "Sisters of the Mists Ch. 04",
+            "file": "197.json"
+        },
+        {
+            "title": "Grayson Sontang in Space Ch. 04",
+            "file": "198.json"
+        },
+        {
+            "title": "Khel and Brom",
+            "file": "199.json"
+        },
+        {
+            "title": "Jane's Demonic Threesome",
+            "file": "200.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 08 Ch. 05",
+            "file": "201.json"
+        },
+        {
+            "title": "The Brush Tiger of Derven Ch. 24-25",
+            "file": "202.json"
+        },
+        {
+            "title": "My Little Ventrue Pt. 08 Ch. 07",
+            "file": "203.json"
+        },
+        {
+            "title": "First Contact: Into the Arena",
+            "file": "204.json"
+        },
+        {
+            "title": "Double Helix Ch. 18",
+            "file": "205.json"
+        },
+        {
+            "title": "Time Isn't Real Pt. 02",
+            "file": "206.json"
+        },
+        {
+            "title": "The Vengeful Tide Ch. 18",
+            "file": "207.json"
+        },
+        {
+            "title": "The Creators Ch. 17",
+            "file": "208.json"
+        },
+        {
+            "title": "Kiravi's Travelogue Ch. 04",
+            "file": "209.json"
+        },
+        {
+            "title": "A Drow's Dilemma Ep. 45: The Vaults",
+            "file": "210.json"
+        },
+        {
+            "title": "For the Whored: Stormwind Ch. 04",
+            "file": "211.json"
+        },
+        {
+            "title": "Unity and Destiny Pt. 03",
+            "file": "212.json"
+        },
+        {
+            "title": "Unity and Destiny Pt. 09",
+            "file": "213.json"
+        },
+        {
+            "title": "The Creators Ch. 16",
+            "file": "214.json"
+        },
+        {
+            "title": "House Sorena Ch. 02 Pt. 2",
+            "file": "215.json"
+        },
+        {
+            "title": "Mines of Sonhadra - Stage 04",
+            "file": "216.json"
+        },
+        {
+            "title": "For the Whored: Stormwind Ch. 25",
+            "file": "217.json"
+        },
+        {
+            "title": "For the Whored: Stormwind Ch. 14",
+            "file": "218.json"
+        },
+        {
+            "title": "Bifrost Ch. 03",
+            "file": "219.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 033",
+            "file": "220.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 043",
+            "file": "221.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 050",
+            "file": "222.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 090",
+            "file": "223.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 054",
+            "file": "224.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 058",
+            "file": "225.json"
+        },
+        {
+            "title": "Endangered Ch. 03",
+            "file": "226.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 075",
+            "file": "227.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 045",
+            "file": "228.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 109",
+            "file": "229.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 091",
+            "file": "230.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 077",
+            "file": "231.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 069",
+            "file": "232.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 064",
+            "file": "233.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 062",
+            "file": "234.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 063",
+            "file": "235.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 106",
+            "file": "236.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 080",
+            "file": "237.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 067",
+            "file": "238.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 105",
+            "file": "239.json"
+        },
+        {
+            "title": "A Slave to the Servants Ch. 15",
+            "file": "240.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 066",
+            "file": "241.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 076",
+            "file": "242.json"
+        },
+        {
+            "title": "Endangered Ch. 04",
+            "file": "243.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 068",
+            "file": "244.json"
+        },
+        {
+            "title": "Three Square Meals Ch. 095",
+            "file": "245.json"
+        }
+    ]
+}

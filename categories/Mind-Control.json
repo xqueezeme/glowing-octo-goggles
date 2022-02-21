@@ -1,0 +1,993 @@
+{
+    "name": "Mind-Control",
+    "files": [
+        {
+            "title": "Forever Again Ch. 08",
+            "file": "0.json"
+        },
+        {
+            "title": "Celestial Wars Ch. 03",
+            "file": "1.json"
+        },
+        {
+            "title": "The Reluctant Psychic Ch. 18",
+            "file": "2.json"
+        },
+        {
+            "title": "A Ring Named Ezzie Pt. 09",
+            "file": "3.json"
+        },
+        {
+            "title": "Just a Little Magic Ch. 16",
+            "file": "4.json"
+        },
+        {
+            "title": "Vox Dominus Pt. 20",
+            "file": "5.json"
+        },
+        {
+            "title": "Bimbo Builder Academy Ch. 13",
+            "file": "6.json"
+        },
+        {
+            "title": "Just a Little Magic Ch. 14",
+            "file": "7.json"
+        },
+        {
+            "title": "Just a Little Magic Ch. 13",
+            "file": "8.json"
+        },
+        {
+            "title": "The Cursed Tattoo Pt. 10",
+            "file": "9.json"
+        },
+        {
+            "title": "The Cursed Tattoo Pt. 12",
+            "file": "10.json"
+        },
+        {
+            "title": "Mind Writing Pt. 09: Gabriella",
+            "file": "11.json"
+        },
+        {
+            "title": "Transformations: Morpheus Ch. 04",
+            "file": "12.json"
+        },
+        {
+            "title": "A Ring Named Ezzie Pt. 08",
+            "file": "13.json"
+        },
+        {
+            "title": "Celestial Wars Ch. 02",
+            "file": "14.json"
+        },
+        {
+            "title": "My Only Talent Ch. 28",
+            "file": "15.json"
+        },
+        {
+            "title": "If I'm Honest Ch. 01-05",
+            "file": "16.json"
+        },
+        {
+            "title": "Just a Little Magic Ch. 15",
+            "file": "17.json"
+        },
+        {
+            "title": "Basics - Neural Control Node Ch. 08",
+            "file": "18.json"
+        },
+        {
+            "title": "Changed Redux Pt. 02",
+            "file": "19.json"
+        },
+        {
+            "title": "The New Principal Ch. 29",
+            "file": "20.json"
+        },
+        {
+            "title": "TRANCE, Inc. 21",
+            "file": "21.json"
+        },
+        {
+            "title": "The Addicted Natural Ch. 16",
+            "file": "22.json"
+        },
+        {
+            "title": "A Ring Named Ezzie Pt. 03",
+            "file": "23.json"
+        },
+        {
+            "title": "The Cursed Tattoo Pt. 11",
+            "file": "24.json"
+        },
+        {
+            "title": "Awakening Ch. 11",
+            "file": "25.json"
+        },
+        {
+            "title": "Brain Games Ch. 15",
+            "file": "26.json"
+        },
+        {
+            "title": "Blow Your Mind Pt. 13",
+            "file": "27.json"
+        },
+        {
+            "title": "The Mystery at Faldor Hotel Ch. 08",
+            "file": "28.json"
+        },
+        {
+            "title": "Celestial Matters",
+            "file": "29.json"
+        },
+        {
+            "title": "A Gift From His Father Ch. 31",
+            "file": "30.json"
+        },
+        {
+            "title": "Celestial Wars Ch. 01",
+            "file": "31.json"
+        },
+        {
+            "title": "My Only Talent Ch. 25",
+            "file": "32.json"
+        },
+        {
+            "title": "My Only Talent Ch. 22",
+            "file": "33.json"
+        },
+        {
+            "title": "My Only Talent Ch. 37",
+            "file": "34.json"
+        },
+        {
+            "title": "NewU Pt. 02",
+            "file": "35.json"
+        },
+        {
+            "title": "Our Little Secret Ch. 10",
+            "file": "36.json"
+        },
+        {
+            "title": "The New Principal Ch. 14",
+            "file": "37.json"
+        },
+        {
+            "title": "The True Master Ch. 12",
+            "file": "38.json"
+        },
+        {
+            "title": "The Web Ch. 08",
+            "file": "39.json"
+        },
+        {
+            "title": "NewU Pt. 05",
+            "file": "40.json"
+        },
+        {
+            "title": "The Pulse Pt. 08",
+            "file": "41.json"
+        },
+        {
+            "title": "The Power of Love Pt. 03",
+            "file": "42.json"
+        },
+        {
+            "title": "NewU Pt. 07",
+            "file": "43.json"
+        },
+        {
+            "title": "The Cursed Tattoo Pt. 03",
+            "file": "44.json"
+        },
+        {
+            "title": "The Shadow Doctor Ch. 04",
+            "file": "45.json"
+        },
+        {
+            "title": "The Cursed Tattoo Pt. 07",
+            "file": "46.json"
+        },
+        {
+            "title": "The Designer Pt. 02 Ch. 23",
+            "file": "47.json"
+        },
+        {
+            "title": "The Designer Pt. 02 Ch. 19",
+            "file": "48.json"
+        },
+        {
+            "title": "Changed Ch. 03",
+            "file": "49.json"
+        },
+        {
+            "title": "Just Say No",
+            "file": "50.json"
+        },
+        {
+            "title": "My Only Talent Ch. 23",
+            "file": "51.json"
+        },
+        {
+            "title": "My Only Talent Ch. 30",
+            "file": "52.json"
+        },
+        {
+            "title": "Hypnotizing the Babysitter Ch. 03",
+            "file": "53.json"
+        },
+        {
+            "title": "Just a Little Magic Ch. 09",
+            "file": "54.json"
+        },
+        {
+            "title": "My Only Talent Ch. 33",
+            "file": "55.json"
+        },
+        {
+            "title": "Incubus Pupa Ch. 07",
+            "file": "56.json"
+        },
+        {
+            "title": "Becoming Dominant Ch. 04",
+            "file": "57.json"
+        },
+        {
+            "title": "The Shadow Doctor Ch. 01",
+            "file": "58.json"
+        },
+        {
+            "title": "My Only Talent Ch. 41A",
+            "file": "59.json"
+        },
+        {
+            "title": "The Cursed Tattoo Pt. 02",
+            "file": "60.json"
+        },
+        {
+            "title": "The New Principal Ch. 22",
+            "file": "61.json"
+        },
+        {
+            "title": "The Pulse Pt. 07",
+            "file": "62.json"
+        },
+        {
+            "title": "Mental Manipulations Ch. 11",
+            "file": "63.json"
+        },
+        {
+            "title": "The Commander Ch. 05",
+            "file": "64.json"
+        },
+        {
+            "title": "Awakening Ch. 08",
+            "file": "65.json"
+        },
+        {
+            "title": "The Web Ch. 07",
+            "file": "66.json"
+        },
+        {
+            "title": "The Cursed Tattoo Pt. 09",
+            "file": "67.json"
+        },
+        {
+            "title": "The Designer Pt. 02 Ch. 18",
+            "file": "68.json"
+        },
+        {
+            "title": "The Addicted Natural Ch. 15",
+            "file": "69.json"
+        },
+        {
+            "title": "A Ring Named Ezzie Pt. 04",
+            "file": "70.json"
+        },
+        {
+            "title": "A Ring Named Ezzie Pt. 05",
+            "file": "71.json"
+        },
+        {
+            "title": "An Innocent Connection Pt. 02",
+            "file": "72.json"
+        },
+        {
+            "title": "Blow Your Mind Pt. 08",
+            "file": "73.json"
+        },
+        {
+            "title": "Pink Pills of Persuasion Ch. 05",
+            "file": "74.json"
+        },
+        {
+            "title": "Jezebel's New Look",
+            "file": "75.json"
+        },
+        {
+            "title": "The Ponytail Express Ch. 11",
+            "file": "76.json"
+        },
+        {
+            "title": "Changed Redux Pt. 06",
+            "file": "77.json"
+        },
+        {
+            "title": "Blow Your Mind Pt. 10",
+            "file": "78.json"
+        },
+        {
+            "title": "The Emperor has No Clothes",
+            "file": "79.json"
+        },
+        {
+            "title": "Bloodlines Ch.02",
+            "file": "80.json"
+        },
+        {
+            "title": "Forever Again Ch. 04",
+            "file": "81.json"
+        },
+        {
+            "title": "Normal Ch. 13-15",
+            "file": "82.json"
+        },
+        {
+            "title": "Transformations - Dr. De-Mona Ch. 02",
+            "file": "83.json"
+        },
+        {
+            "title": "Breast Suggestions Ch. 09",
+            "file": "84.json"
+        },
+        {
+            "title": "Beetlesmith's Ch. 19",
+            "file": "85.json"
+        },
+        {
+            "title": "The Last Bridge in Pittsburgh Ch. 11",
+            "file": "86.json"
+        },
+        {
+            "title": "Brain Games Ch. 16",
+            "file": "87.json"
+        },
+        {
+            "title": "Aphrodisia Ch. 02",
+            "file": "88.json"
+        },
+        {
+            "title": "A Gift From His Father Ch. 23",
+            "file": "89.json"
+        },
+        {
+            "title": "My Only Talent Ch. 10",
+            "file": "90.json"
+        },
+        {
+            "title": "My Only Talent Ch. 11",
+            "file": "91.json"
+        },
+        {
+            "title": "My Only Talent Ch. 12",
+            "file": "92.json"
+        },
+        {
+            "title": "My Only Talent Ch. 26",
+            "file": "93.json"
+        },
+        {
+            "title": "My Only Talent Ch. 27",
+            "file": "94.json"
+        },
+        {
+            "title": "My Only Talent Ch. 29",
+            "file": "95.json"
+        },
+        {
+            "title": "My Only Talent Ch. 31",
+            "file": "96.json"
+        },
+        {
+            "title": "The New Principal Ch. 10",
+            "file": "97.json"
+        },
+        {
+            "title": "The Artifact Ch. 03",
+            "file": "98.json"
+        },
+        {
+            "title": "Trucker's Curse",
+            "file": "99.json"
+        },
+        {
+            "title": "My Only Talent Ch. 34",
+            "file": "100.json"
+        },
+        {
+            "title": "Blow Your Mind Pt. 12",
+            "file": "101.json"
+        },
+        {
+            "title": "Yogabot Pt. 06",
+            "file": "102.json"
+        },
+        {
+            "title": "Taking Her Mind Off It",
+            "file": "103.json"
+        },
+        {
+            "title": "Transformations - Visions of Sugar Plums Ch. 04",
+            "file": "104.json"
+        },
+        {
+            "title": "Divine Poker Ch. 03",
+            "file": "105.json"
+        },
+        {
+            "title": "Transformations - Visions of Sugar Plums Ch. 02",
+            "file": "106.json"
+        },
+        {
+            "title": "Binoculation Ch. 06",
+            "file": "107.json"
+        },
+        {
+            "title": "Just a Little Magic Ch. 08",
+            "file": "108.json"
+        },
+        {
+            "title": "NewU Pt. 04b",
+            "file": "109.json"
+        },
+        {
+            "title": "The Designer Ch. 17",
+            "file": "110.json"
+        },
+        {
+            "title": "The Thin White Wall",
+            "file": "111.json"
+        },
+        {
+            "title": "The New Principal Ch. 17",
+            "file": "112.json"
+        },
+        {
+            "title": "Basics - Neural Control Node Ch. 06",
+            "file": "113.json"
+        },
+        {
+            "title": "The Pulse Pt. 03",
+            "file": "114.json"
+        },
+        {
+            "title": "Basics - Neural Control Node Ch. 07",
+            "file": "115.json"
+        },
+        {
+            "title": "The True Master Ch. 11",
+            "file": "116.json"
+        },
+        {
+            "title": "My Only Talent Ch. 50",
+            "file": "117.json"
+        },
+        {
+            "title": "The Designer Pt. 02 Ch. 02",
+            "file": "118.json"
+        },
+        {
+            "title": "The Cursed Tattoo Pt. 08",
+            "file": "119.json"
+        },
+        {
+            "title": "Path of the Chosen Pt. 01",
+            "file": "120.json"
+        },
+        {
+            "title": "The Designer Pt. 02 Ch. 16",
+            "file": "121.json"
+        },
+        {
+            "title": "The Shadow Doctor Ch. 05",
+            "file": "122.json"
+        },
+        {
+            "title": "Mind Writing Pt. 08: Emerald",
+            "file": "123.json"
+        },
+        {
+            "title": "Awakening Ch. 10",
+            "file": "124.json"
+        },
+        {
+            "title": "Quaranteam: Phil's Tale Ch. 02",
+            "file": "125.json"
+        },
+        {
+            "title": "Forever Again Ch. 05",
+            "file": "126.json"
+        },
+        {
+            "title": "The Ponytail Express Ch. 13",
+            "file": "127.json"
+        },
+        {
+            "title": "Transformations - The Farm Ch. 05",
+            "file": "128.json"
+        },
+        {
+            "title": "Bloodlines Ch.03",
+            "file": "129.json"
+        },
+        {
+            "title": "A Descent Ch. 01.5",
+            "file": "130.json"
+        },
+        {
+            "title": "Yogabot Pt. 07",
+            "file": "131.json"
+        },
+        {
+            "title": "Transformations: Morpheus Ch. 03",
+            "file": "132.json"
+        },
+        {
+            "title": "The Doctor's Casebook Pt. 02 Ch. 03",
+            "file": "133.json"
+        },
+        {
+            "title": "Secret Sins Ch. 05",
+            "file": "134.json"
+        },
+        {
+            "title": "The Artifact Ch. 02",
+            "file": "135.json"
+        },
+        {
+            "title": "Brain Development Enterprises Ch. 10",
+            "file": "136.json"
+        },
+        {
+            "title": "The Relationship Game Ch. 02",
+            "file": "137.json"
+        },
+        {
+            "title": "My Only Talent Ch. 18",
+            "file": "138.json"
+        },
+        {
+            "title": "Stamp of Approval",
+            "file": "139.json"
+        },
+        {
+            "title": "The Winsome Widow",
+            "file": "140.json"
+        },
+        {
+            "title": "The New Principal Ch. 11",
+            "file": "141.json"
+        },
+        {
+            "title": "Just a Little Magic Ch. 11",
+            "file": "142.json"
+        },
+        {
+            "title": "The Pulse Pt. 02",
+            "file": "143.json"
+        },
+        {
+            "title": "My Only Talent Ch. 40",
+            "file": "144.json"
+        },
+        {
+            "title": "The New Principal Ch. 18",
+            "file": "145.json"
+        },
+        {
+            "title": "The Designer Pt. 02 Ch. 03",
+            "file": "146.json"
+        },
+        {
+            "title": "The Designer Pt. 02 Ch. 09",
+            "file": "147.json"
+        },
+        {
+            "title": "Blizzard Ch. 29",
+            "file": "148.json"
+        },
+        {
+            "title": "Transformations - Return to Sinful Suburbia Ch. 04",
+            "file": "149.json"
+        },
+        {
+            "title": "Cooper Family Pride Pt. 01",
+            "file": "150.json"
+        },
+        {
+            "title": "Blow Your Mind Pt. 09",
+            "file": "151.json"
+        },
+        {
+            "title": "A Ring Named Ezzie Pt. 06",
+            "file": "152.json"
+        },
+        {
+            "title": "Forever Again Ch. 07",
+            "file": "153.json"
+        },
+        {
+            "title": "Premonitions: Senior Year Ch. 10",
+            "file": "154.json"
+        },
+        {
+            "title": "FocusTunes Ch. 07",
+            "file": "155.json"
+        },
+        {
+            "title": "Ashley Finds Out",
+            "file": "156.json"
+        },
+        {
+            "title": "The Last Bridge in Pittsburgh Ch. 10",
+            "file": "157.json"
+        },
+        {
+            "title": "Transformations - Dr. De-Mona Ch. 03",
+            "file": "158.json"
+        },
+        {
+            "title": "Brain Games Ch. 17",
+            "file": "159.json"
+        },
+        {
+            "title": "Jonathan Creed",
+            "file": "160.json"
+        },
+        {
+            "title": "My Only Talent Ch. 05",
+            "file": "161.json"
+        },
+        {
+            "title": "My Only Talent Ch. 08",
+            "file": "162.json"
+        },
+        {
+            "title": "My Only Talent Ch. 16",
+            "file": "163.json"
+        },
+        {
+            "title": "My Only Talent Ch. 17",
+            "file": "164.json"
+        },
+        {
+            "title": "My Only Talent Ch. 21",
+            "file": "165.json"
+        },
+        {
+            "title": "Changed Ch. 04",
+            "file": "166.json"
+        },
+        {
+            "title": "My Only Talent Ch. 32",
+            "file": "167.json"
+        },
+        {
+            "title": "The Designer Ch. 10",
+            "file": "168.json"
+        },
+        {
+            "title": "Changed Redux Pt. 01",
+            "file": "169.json"
+        },
+        {
+            "title": "My Only Talent Ch. 39",
+            "file": "170.json"
+        },
+        {
+            "title": "The Web Ch. 03",
+            "file": "171.json"
+        },
+        {
+            "title": "The Pulse Pt. 04",
+            "file": "172.json"
+        },
+        {
+            "title": "Prototype Ch. 09",
+            "file": "173.json"
+        },
+        {
+            "title": "Adriana and the Buttapboo",
+            "file": "174.json"
+        },
+        {
+            "title": "One Night 02 - Twelve to Two",
+            "file": "175.json"
+        },
+        {
+            "title": "The New Principal Ch. 21",
+            "file": "176.json"
+        },
+        {
+            "title": "The Web Ch. 05",
+            "file": "177.json"
+        },
+        {
+            "title": "Domino Effect",
+            "file": "178.json"
+        },
+        {
+            "title": "The Reluctant Psychic Ch. 17",
+            "file": "179.json"
+        },
+        {
+            "title": "The Lampmaker Ch. 11",
+            "file": "180.json"
+        },
+        {
+            "title": "The Designer Pt. 02 Ch. 08",
+            "file": "181.json"
+        },
+        {
+            "title": "The Ultimate Nerd",
+            "file": "182.json"
+        },
+        {
+            "title": "The Designer Pt. 02 Ch. 10",
+            "file": "183.json"
+        },
+        {
+            "title": "Blow Your Mind Pt. 05",
+            "file": "184.json"
+        },
+        {
+            "title": "Reichenbach Ch. 04",
+            "file": "185.json"
+        },
+        {
+            "title": "The Designer Pt. 02 Ch. 17",
+            "file": "186.json"
+        },
+        {
+            "title": "The Designer Pt. 02 Ch. 22",
+            "file": "187.json"
+        },
+        {
+            "title": "Snuggle Ch. 04",
+            "file": "188.json"
+        },
+        {
+            "title": "A Demon's Devotion Ch. 06",
+            "file": "189.json"
+        },
+        {
+            "title": "Date Night with Keiko",
+            "file": "190.json"
+        },
+        {
+            "title": "Transformations - Sinful Suburbia Ch. 04",
+            "file": "191.json"
+        },
+        {
+            "title": "Yogabot Pt. 05",
+            "file": "192.json"
+        },
+        {
+            "title": "Friends, Enemies, and Exes Ch. 08",
+            "file": "193.json"
+        },
+        {
+            "title": "The Ponytail Express Ch. 18",
+            "file": "194.json"
+        },
+        {
+            "title": "Cooper Family Pride Pt. 02",
+            "file": "195.json"
+        },
+        {
+            "title": "My Only Talent Ch. 06",
+            "file": "196.json"
+        },
+        {
+            "title": "My Only Talent Ch. 36",
+            "file": "197.json"
+        },
+        {
+            "title": "The Designer Ch. 12",
+            "file": "198.json"
+        },
+        {
+            "title": "Prototype Ch. 06",
+            "file": "199.json"
+        },
+        {
+            "title": "The New Principal Ch. 12",
+            "file": "200.json"
+        },
+        {
+            "title": "Trophy Wives School Rachelle Pt. 03",
+            "file": "201.json"
+        },
+        {
+            "title": "TRANCE, Inc. 08",
+            "file": "202.json"
+        },
+        {
+            "title": "Our Little Secret Ch. 06",
+            "file": "203.json"
+        },
+        {
+            "title": "Glow Ch. 02",
+            "file": "204.json"
+        },
+        {
+            "title": "The Sculptor Ch. 01",
+            "file": "205.json"
+        },
+        {
+            "title": "Prototype Ch. 10",
+            "file": "206.json"
+        },
+        {
+            "title": "Incubus Pupa Ch. 09",
+            "file": "207.json"
+        },
+        {
+            "title": "Basics - Neural Control Node Ch. 09",
+            "file": "208.json"
+        },
+        {
+            "title": "Bimbo Builder Academy Ch. 11",
+            "file": "209.json"
+        },
+        {
+            "title": "The Ponytail Express Ch. 08",
+            "file": "210.json"
+        },
+        {
+            "title": "Touch Pt. 04",
+            "file": "211.json"
+        },
+        {
+            "title": "The New Principal Ch. 26",
+            "file": "212.json"
+        },
+        {
+            "title": "A Ring Named Ezzie Pt. 02",
+            "file": "213.json"
+        },
+        {
+            "title": "The Pulse Pt. 09",
+            "file": "214.json"
+        },
+        {
+            "title": "The Cursed Tattoo Pt. 04",
+            "file": "215.json"
+        },
+        {
+            "title": "The Designer Pt. 02 Ch. 07",
+            "file": "216.json"
+        },
+        {
+            "title": "Bounder Ch. 09",
+            "file": "217.json"
+        },
+        {
+            "title": "Altered World Ch. 01",
+            "file": "218.json"
+        },
+        {
+            "title": "Transformations - The Farm Ch. 01",
+            "file": "219.json"
+        },
+        {
+            "title": "Yogabot Pt. 04",
+            "file": "220.json"
+        },
+        {
+            "title": "Forever Again Ch. 06",
+            "file": "221.json"
+        },
+        {
+            "title": "Room with a Secret Ch. 05",
+            "file": "222.json"
+        },
+        {
+            "title": "Blizzard Ch. 28",
+            "file": "223.json"
+        },
+        {
+            "title": "Transformations - The Farm Ch. 06",
+            "file": "224.json"
+        },
+        {
+            "title": "Room with a Secret Ch. 08",
+            "file": "225.json"
+        },
+        {
+            "title": "Transformations - Dr. De-Mona Ch. 05",
+            "file": "226.json"
+        },
+        {
+            "title": "The Ponytail Express Ch. 17",
+            "file": "227.json"
+        },
+        {
+            "title": "The Designer Pt. 03 Ch. 02",
+            "file": "228.json"
+        },
+        {
+            "title": "Pink Pills of Persuasion Ch. 06B",
+            "file": "229.json"
+        },
+        {
+            "title": "Aphrodisia Ch. 03",
+            "file": "230.json"
+        },
+        {
+            "title": "Just a Little Magic Ch. 02",
+            "file": "231.json"
+        },
+        {
+            "title": "My Only Talent Ch. 13",
+            "file": "232.json"
+        },
+        {
+            "title": "My Only Talent Ch. 19",
+            "file": "233.json"
+        },
+        {
+            "title": "The Ultimate Playboy Pt. 02",
+            "file": "234.json"
+        },
+        {
+            "title": "NewU Pt. 03",
+            "file": "235.json"
+        },
+        {
+            "title": "The Ultimate Playboy Pt. 03",
+            "file": "236.json"
+        },
+        {
+            "title": "My Only Talent Ch. 35",
+            "file": "237.json"
+        },
+        {
+            "title": "Incubus Pupa Ch. 08",
+            "file": "238.json"
+        },
+        {
+            "title": "Just a Little Magic Ch. 12",
+            "file": "239.json"
+        },
+        {
+            "title": "The Web Ch. 02",
+            "file": "240.json"
+        },
+        {
+            "title": "Glow Ch. 01",
+            "file": "241.json"
+        },
+        {
+            "title": "The Ponytail Express Ch. 04",
+            "file": "242.json"
+        },
+        {
+            "title": "The New Principal Ch. 15",
+            "file": "243.json"
+        },
+        {
+            "title": "The New Principal Ch. 16",
+            "file": "244.json"
+        },
+        {
+            "title": "Basics - Neural Control Node Ch. 05",
+            "file": "245.json"
+        },
+        {
+            "title": "Our Little Secret Ch. 08",
+            "file": "246.json"
+        }
+    ]
+}

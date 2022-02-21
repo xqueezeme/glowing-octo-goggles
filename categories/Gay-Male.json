@@ -1,0 +1,953 @@
+{
+    "name": "Gay-Male",
+    "files": [
+        {
+            "title": "Speech and Debate Pt. 04",
+            "file": "0.json"
+        },
+        {
+            "title": "Arabian Nights Ch. 04",
+            "file": "1.json"
+        },
+        {
+            "title": "Welcome to the Neighborhood Ch. 10",
+            "file": "2.json"
+        },
+        {
+            "title": "Bent Backwards Ch. 09",
+            "file": "3.json"
+        },
+        {
+            "title": "Requited Ch. 09",
+            "file": "4.json"
+        },
+        {
+            "title": "Love at Crow Creek",
+            "file": "5.json"
+        },
+        {
+            "title": "Rebound Pt. 04",
+            "file": "6.json"
+        },
+        {
+            "title": "Requited Ch. 11",
+            "file": "7.json"
+        },
+        {
+            "title": "Requited Ch. 08",
+            "file": "8.json"
+        },
+        {
+            "title": "Boss Nanny Ch. 16",
+            "file": "9.json"
+        },
+        {
+            "title": "Arabian Nights Ch. 06 - Final",
+            "file": "10.json"
+        },
+        {
+            "title": "Arabian Nights Ch. 05",
+            "file": "11.json"
+        },
+        {
+            "title": "Requited Ch. 10",
+            "file": "12.json"
+        },
+        {
+            "title": "Boss Nanny Ch. 14",
+            "file": "13.json"
+        },
+        {
+            "title": "Boss Nanny Ch. 15",
+            "file": "14.json"
+        },
+        {
+            "title": "Spin Ch. 01",
+            "file": "15.json"
+        },
+        {
+            "title": "Boss Nanny Ch. 22",
+            "file": "16.json"
+        },
+        {
+            "title": "Rebound Pt. 03",
+            "file": "17.json"
+        },
+        {
+            "title": "Western Skies Ch. 04",
+            "file": "18.json"
+        },
+        {
+            "title": "Boss Nanny Ch. 07",
+            "file": "19.json"
+        },
+        {
+            "title": "Boss Nanny Ch. 20",
+            "file": "20.json"
+        },
+        {
+            "title": "My First Year in College Ch. 20",
+            "file": "21.json"
+        },
+        {
+            "title": "Just For the Week Ch. 02",
+            "file": "22.json"
+        },
+        {
+            "title": "Savage Desire Ch. 06",
+            "file": "23.json"
+        },
+        {
+            "title": "Speech and Debate Pt. 15B",
+            "file": "24.json"
+        },
+        {
+            "title": "Bent Ch. 09",
+            "file": "25.json"
+        },
+        {
+            "title": "Brother's Basketball Teammate Ch. 04",
+            "file": "26.json"
+        },
+        {
+            "title": "Three Strikes Ch. 20",
+            "file": "27.json"
+        },
+        {
+            "title": "Sk8r Boi",
+            "file": "28.json"
+        },
+        {
+            "title": "Requited Ch. 06",
+            "file": "29.json"
+        },
+        {
+            "title": "Lust and Love Pt. 01(?)",
+            "file": "30.json"
+        },
+        {
+            "title": "Tied Up in Knotts Ch. 19",
+            "file": "31.json"
+        },
+        {
+            "title": "Tied Up in Knotts Ch. 18",
+            "file": "32.json"
+        },
+        {
+            "title": "Boss Nanny Ch. 21",
+            "file": "33.json"
+        },
+        {
+            "title": "Back to You Ch. 09",
+            "file": "34.json"
+        },
+        {
+            "title": "A Love for Micah Ch. 07",
+            "file": "35.json"
+        },
+        {
+            "title": "My Exception is You Ch. 07",
+            "file": "36.json"
+        },
+        {
+            "title": "Timber Pack Chronicles Ch. 09",
+            "file": "37.json"
+        },
+        {
+            "title": "Coming Home: Davis Brothers Ch. 07",
+            "file": "38.json"
+        },
+        {
+            "title": "Run and Hide Pt. 04",
+            "file": "39.json"
+        },
+        {
+            "title": "Between the Bars Pt. 07",
+            "file": "40.json"
+        },
+        {
+            "title": "The Magic in Your Touch Ch. 17",
+            "file": "41.json"
+        },
+        {
+            "title": "Coming Home: Davis Brothers Ch. 06",
+            "file": "42.json"
+        },
+        {
+            "title": "When Irish Eyes Are Smiling Ch. 07",
+            "file": "43.json"
+        },
+        {
+            "title": "Montana Winter Ch. 02",
+            "file": "44.json"
+        },
+        {
+            "title": "Fiery Heat Ch. 12",
+            "file": "45.json"
+        },
+        {
+            "title": "Speech and Debate Pt. 10",
+            "file": "46.json"
+        },
+        {
+            "title": "The Human Condition Ch. 10",
+            "file": "47.json"
+        },
+        {
+            "title": "Speech and Debate Pt. 16: Finale",
+            "file": "48.json"
+        },
+        {
+            "title": "Speech and Debate Pt. 13",
+            "file": "49.json"
+        },
+        {
+            "title": "Savage Desire Ch. 05",
+            "file": "50.json"
+        },
+        {
+            "title": "Still You Want Me Ch. 11",
+            "file": "51.json"
+        },
+        {
+            "title": "Hypnotic Ch. 10",
+            "file": "52.json"
+        },
+        {
+            "title": "The Arrangement",
+            "file": "53.json"
+        },
+        {
+            "title": "Between the Bars Pt. 06",
+            "file": "54.json"
+        },
+        {
+            "title": "It's Too Clich\u00e9...Right? Ch. 12",
+            "file": "55.json"
+        },
+        {
+            "title": "Unbreakable Bond Ch. 08",
+            "file": "56.json"
+        },
+        {
+            "title": "Stepping Out in Faith Ch. 05",
+            "file": "57.json"
+        },
+        {
+            "title": "Stepping Out in Faith Ch. 02",
+            "file": "58.json"
+        },
+        {
+            "title": "Encounters with Evil Pt. 09",
+            "file": "59.json"
+        },
+        {
+            "title": "Rain Falls Ch. 07",
+            "file": "60.json"
+        },
+        {
+            "title": "Rory and Sebastian Ch. 20",
+            "file": "61.json"
+        },
+        {
+            "title": "Collateral Ch. 23 - And Epilogue",
+            "file": "62.json"
+        },
+        {
+            "title": "Bent Ch. 04",
+            "file": "63.json"
+        },
+        {
+            "title": "The Curse of 100 Bottoms Ch. 11",
+            "file": "64.json"
+        },
+        {
+            "title": "Collateral Ch. 12",
+            "file": "65.json"
+        },
+        {
+            "title": "Collateral Ch. 14",
+            "file": "66.json"
+        },
+        {
+            "title": "Plotting a Course Ch. 06",
+            "file": "67.json"
+        },
+        {
+            "title": "Where the Lines Overlap Ch. 10",
+            "file": "68.json"
+        },
+        {
+            "title": "Wild Card Ch. 06",
+            "file": "69.json"
+        },
+        {
+            "title": "Tied Up in Knotts Ch. 21",
+            "file": "70.json"
+        },
+        {
+            "title": "Embracing the Tension Ch. 11",
+            "file": "71.json"
+        },
+        {
+            "title": "Plotting a Course Ch. 16",
+            "file": "72.json"
+        },
+        {
+            "title": "Three Strikes Ch. 08",
+            "file": "73.json"
+        },
+        {
+            "title": "You Get What You Paid For Ch. 04",
+            "file": "74.json"
+        },
+        {
+            "title": "Bent Backwards Ch. 08",
+            "file": "75.json"
+        },
+        {
+            "title": "Rewriting Singularity Ch. 21",
+            "file": "76.json"
+        },
+        {
+            "title": "Box Shaped Heart Ch. 34",
+            "file": "77.json"
+        },
+        {
+            "title": "Boss Nanny Ch. 12",
+            "file": "78.json"
+        },
+        {
+            "title": "My Exception is You Ch. 02",
+            "file": "79.json"
+        },
+        {
+            "title": "Back to You Ch. 10",
+            "file": "80.json"
+        },
+        {
+            "title": "Bittersweet Irish Cream Ch. 07",
+            "file": "81.json"
+        },
+        {
+            "title": "Ian and Wes Pt. 04",
+            "file": "82.json"
+        },
+        {
+            "title": "Misbehaving",
+            "file": "83.json"
+        },
+        {
+            "title": "Facing the Frat Boy Ch. 07",
+            "file": "84.json"
+        },
+        {
+            "title": "A Love for Micah Ch. 03",
+            "file": "85.json"
+        },
+        {
+            "title": "The Porn Star and the Prostitute",
+            "file": "86.json"
+        },
+        {
+            "title": "A New Start with an Old Friend",
+            "file": "87.json"
+        },
+        {
+            "title": "Hope Among the Deserted",
+            "file": "88.json"
+        },
+        {
+            "title": "Timber Pack Chronicles Ch. 07",
+            "file": "89.json"
+        },
+        {
+            "title": "I Know What I'm Doing Ch. 04",
+            "file": "90.json"
+        },
+        {
+            "title": "Salvation Ch. 02",
+            "file": "91.json"
+        },
+        {
+            "title": "Hooking the Hockey Player Ch. 07",
+            "file": "92.json"
+        },
+        {
+            "title": "Speech and Debate Pt. 09",
+            "file": "93.json"
+        },
+        {
+            "title": "Coming Out with the Truth Ch. 07",
+            "file": "94.json"
+        },
+        {
+            "title": "The Magic in Your Touch Ch. 16",
+            "file": "95.json"
+        },
+        {
+            "title": "Speech and Debate Pt. 05",
+            "file": "96.json"
+        },
+        {
+            "title": "Speech and Debate Pt. 06",
+            "file": "97.json"
+        },
+        {
+            "title": "Speech and Debate Pt. 12",
+            "file": "98.json"
+        },
+        {
+            "title": "The Human Condition Ch. 07",
+            "file": "99.json"
+        },
+        {
+            "title": "Unbreakable Bond Ch. 11",
+            "file": "100.json"
+        },
+        {
+            "title": "Savage Desire Ch. 07",
+            "file": "101.json"
+        },
+        {
+            "title": "Bisexual Orgy Newbies",
+            "file": "102.json"
+        },
+        {
+            "title": "Hooking the Hockey Player: Owen",
+            "file": "103.json"
+        },
+        {
+            "title": "Backstage Romance Ch. 12",
+            "file": "104.json"
+        },
+        {
+            "title": "Zasha's Capture Ch. 02",
+            "file": "105.json"
+        },
+        {
+            "title": "City of Angels Ch. 04",
+            "file": "106.json"
+        },
+        {
+            "title": "Still You Want Me Ch. 08",
+            "file": "107.json"
+        },
+        {
+            "title": "The Way You Say My Name Ch. 17",
+            "file": "108.json"
+        },
+        {
+            "title": "The Way You Say My Name Ch. 16",
+            "file": "109.json"
+        },
+        {
+            "title": "The Arrangement Ch. 02",
+            "file": "110.json"
+        },
+        {
+            "title": "Two of a Kind Ch. 07",
+            "file": "111.json"
+        },
+        {
+            "title": "Between the Push and Pull Ch. 02",
+            "file": "112.json"
+        },
+        {
+            "title": "Stepping Out in Faith Ch. 03",
+            "file": "113.json"
+        },
+        {
+            "title": "Fighters",
+            "file": "114.json"
+        },
+        {
+            "title": "Game If You Are",
+            "file": "115.json"
+        },
+        {
+            "title": "Twisted Ink 4 Alex",
+            "file": "116.json"
+        },
+        {
+            "title": "Ganymede Station Pt. 02",
+            "file": "117.json"
+        },
+        {
+            "title": "Stumbling Ch. 06",
+            "file": "118.json"
+        },
+        {
+            "title": "Efrain and Cory Ch. 21",
+            "file": "119.json"
+        },
+        {
+            "title": "Efrain and Cory Ch. 20",
+            "file": "120.json"
+        },
+        {
+            "title": "Efrain and Cory Ch. 22",
+            "file": "121.json"
+        },
+        {
+            "title": "Efrain and Cory Ch. 17",
+            "file": "122.json"
+        },
+        {
+            "title": "Plotting a Course Ch. 17",
+            "file": "123.json"
+        },
+        {
+            "title": "Efrain and Cory Ch. 23",
+            "file": "124.json"
+        },
+        {
+            "title": "You Get What You Paid For Ch. 06 - Final",
+            "file": "125.json"
+        },
+        {
+            "title": "Collateral Ch. 17",
+            "file": "126.json"
+        },
+        {
+            "title": "Requited Ch. 07",
+            "file": "127.json"
+        },
+        {
+            "title": "Collateral Ch. 20",
+            "file": "128.json"
+        },
+        {
+            "title": "Efrain and Cory Ch. 24",
+            "file": "129.json"
+        },
+        {
+            "title": "It's Who You Know Ch. 07",
+            "file": "130.json"
+        },
+        {
+            "title": "Deciphering the Bloom Ch. 06",
+            "file": "131.json"
+        },
+        {
+            "title": "Efrain and Cory Ch. 29",
+            "file": "132.json"
+        },
+        {
+            "title": "Collateral Ch. 19",
+            "file": "133.json"
+        },
+        {
+            "title": "The Porn Shoot Ch. 04",
+            "file": "134.json"
+        },
+        {
+            "title": "Three Strikes Ch. 10",
+            "file": "135.json"
+        },
+        {
+            "title": "Christmas in Zonei Pt. 09",
+            "file": "136.json"
+        },
+        {
+            "title": "The Pirate King Ch. 14",
+            "file": "137.json"
+        },
+        {
+            "title": "The Challenge",
+            "file": "138.json"
+        },
+        {
+            "title": "The Lunar Life Ch. 10",
+            "file": "139.json"
+        },
+        {
+            "title": "Silver Ch. 05",
+            "file": "140.json"
+        },
+        {
+            "title": "Naked Yoga for Men",
+            "file": "141.json"
+        },
+        {
+            "title": "Boss Nanny Ch. 10",
+            "file": "142.json"
+        },
+        {
+            "title": "Onus 06",
+            "file": "143.json"
+        },
+        {
+            "title": "The Pirate King Ch. 18",
+            "file": "144.json"
+        },
+        {
+            "title": "Christmas in Zonei Pt. 10",
+            "file": "145.json"
+        },
+        {
+            "title": "Mikey and the Chickadee Ch. 10",
+            "file": "146.json"
+        },
+        {
+            "title": "The Pirate King Ch. 16",
+            "file": "147.json"
+        },
+        {
+            "title": "The Sleep Over Pt. 05",
+            "file": "148.json"
+        },
+        {
+            "title": "The Pirate King Ch. 19",
+            "file": "149.json"
+        },
+        {
+            "title": "My First Year in College Ch. 16",
+            "file": "150.json"
+        },
+        {
+            "title": "Hot Gay Masseur Seeking Role-Play",
+            "file": "151.json"
+        },
+        {
+            "title": "Firecracker Ch. 02",
+            "file": "152.json"
+        },
+        {
+            "title": "Timber Pack Chronicles Ch. 06",
+            "file": "153.json"
+        },
+        {
+            "title": "The Yule Log",
+            "file": "154.json"
+        },
+        {
+            "title": "Timber Pack Chronicles Ch. 08",
+            "file": "155.json"
+        },
+        {
+            "title": "Coming Home: Davis Brothers Ch. 05",
+            "file": "156.json"
+        },
+        {
+            "title": "Please Wait for Me",
+            "file": "157.json"
+        },
+        {
+            "title": "The Magic in Your Touch Ch. 04",
+            "file": "158.json"
+        },
+        {
+            "title": "Cupid's Sophomore Year, Semester 01",
+            "file": "159.json"
+        },
+        {
+            "title": "Rory and Sebastian Ch. 19",
+            "file": "160.json"
+        },
+        {
+            "title": "Fiery Heat Ch. 07",
+            "file": "161.json"
+        },
+        {
+            "title": "The Way You Say My Name Ch. 22",
+            "file": "162.json"
+        },
+        {
+            "title": "Between the Bars Pt. 04",
+            "file": "163.json"
+        },
+        {
+            "title": "Between the Bars Pt. 05",
+            "file": "164.json"
+        },
+        {
+            "title": "The Magic in Your Touch Ch. 15",
+            "file": "165.json"
+        },
+        {
+            "title": "Blissfully Hooked Ch. 04",
+            "file": "166.json"
+        },
+        {
+            "title": "The Farmer & Dale Ch. 07",
+            "file": "167.json"
+        },
+        {
+            "title": "Speech and Debate Pt. 07",
+            "file": "168.json"
+        },
+        {
+            "title": "Male Sorting",
+            "file": "169.json"
+        },
+        {
+            "title": "I Read A Lot Ch. 04",
+            "file": "170.json"
+        },
+        {
+            "title": "The Human Condition Ch. 08",
+            "file": "171.json"
+        },
+        {
+            "title": "Speech and Debate Pt. 11",
+            "file": "172.json"
+        },
+        {
+            "title": "Blissfully Hooked Ch. 10",
+            "file": "173.json"
+        },
+        {
+            "title": "The Way You Say My Name Ch. 04",
+            "file": "174.json"
+        },
+        {
+            "title": "The Human Condition Ch. 09",
+            "file": "175.json"
+        },
+        {
+            "title": "Fiery Heat Ch. 10",
+            "file": "176.json"
+        },
+        {
+            "title": "Savage Desire Ch. 10",
+            "file": "177.json"
+        },
+        {
+            "title": "Unbreakable Bond Ch. 06",
+            "file": "178.json"
+        },
+        {
+            "title": "Back To Your Nap Buddy",
+            "file": "179.json"
+        },
+        {
+            "title": "Hypnotic Ch. 07",
+            "file": "180.json"
+        },
+        {
+            "title": "The Slave Boy 02",
+            "file": "181.json"
+        },
+        {
+            "title": "Sugar Heart Ch. 05",
+            "file": "182.json"
+        },
+        {
+            "title": "Mage, Man",
+            "file": "183.json"
+        },
+        {
+            "title": "Quinn",
+            "file": "184.json"
+        },
+        {
+            "title": "Sweet Spot Ch. 06",
+            "file": "185.json"
+        },
+        {
+            "title": "Bright Arrow Ch. 05",
+            "file": "186.json"
+        },
+        {
+            "title": "Centre of Attention",
+            "file": "187.json"
+        },
+        {
+            "title": "The Mask of Pan",
+            "file": "188.json"
+        },
+        {
+            "title": "Spill The Milk Pt. 02",
+            "file": "189.json"
+        },
+        {
+            "title": "When Love Takes Over Ch. 08",
+            "file": "190.json"
+        },
+        {
+            "title": "Eyes Like Winona Ch. 08",
+            "file": "191.json"
+        },
+        {
+            "title": "Ian and Wes Pt. 03",
+            "file": "192.json"
+        },
+        {
+            "title": "Rain Storms Ch. 03",
+            "file": "193.json"
+        },
+        {
+            "title": "Eyes Like Winona Ch. 06",
+            "file": "194.json"
+        },
+        {
+            "title": "Getaway",
+            "file": "195.json"
+        },
+        {
+            "title": "My Exception is You",
+            "file": "196.json"
+        },
+        {
+            "title": "Ganymede Station Pt. 01",
+            "file": "197.json"
+        },
+        {
+            "title": "Collateral Ch. 22",
+            "file": "198.json"
+        },
+        {
+            "title": "Deciphering the Bloom Ch. 03",
+            "file": "199.json"
+        },
+        {
+            "title": "Respect Your Elders",
+            "file": "200.json"
+        },
+        {
+            "title": "Collateral Ch. 15",
+            "file": "201.json"
+        },
+        {
+            "title": "Collateral Ch. 13",
+            "file": "202.json"
+        },
+        {
+            "title": "Just One of Those Things Ch. 04",
+            "file": "203.json"
+        },
+        {
+            "title": "Efrain and Cory Ch. 27",
+            "file": "204.json"
+        },
+        {
+            "title": "You Get What You Paid For Ch. 05",
+            "file": "205.json"
+        },
+        {
+            "title": "Efrain and Cory Ch. 28",
+            "file": "206.json"
+        },
+        {
+            "title": "Efrain and Cory Ch. 25",
+            "file": "207.json"
+        },
+        {
+            "title": "Collateral Ch. 09",
+            "file": "208.json"
+        },
+        {
+            "title": "Baseballed Ch. 02",
+            "file": "209.json"
+        },
+        {
+            "title": "Efrain and Cory Ch. 30",
+            "file": "210.json"
+        },
+        {
+            "title": "It's Who You Know Ch. 06",
+            "file": "211.json"
+        },
+        {
+            "title": "Christmas in Zonei Pt. 12",
+            "file": "212.json"
+        },
+        {
+            "title": "Boss Nanny Ch. 13",
+            "file": "213.json"
+        },
+        {
+            "title": "Deciphering the Bloom Ch. 05",
+            "file": "214.json"
+        },
+        {
+            "title": "Bittersweet Irish Cream Ch. 02",
+            "file": "215.json"
+        },
+        {
+            "title": "Fallen Ch. 16",
+            "file": "216.json"
+        },
+        {
+            "title": "The Pirate King Ch. 17",
+            "file": "217.json"
+        },
+        {
+            "title": "Mikey and the Chickadee Ch. 12",
+            "file": "218.json"
+        },
+        {
+            "title": "Back to You Ch. 07",
+            "file": "219.json"
+        },
+        {
+            "title": "U-N-I Ch. 04",
+            "file": "220.json"
+        },
+        {
+            "title": "Back to You Ch. 08",
+            "file": "221.json"
+        },
+        {
+            "title": "Silver Ch. 08",
+            "file": "222.json"
+        },
+        {
+            "title": "Box Shaped Heart Ch. 25",
+            "file": "223.json"
+        },
+        {
+            "title": "Embracing the Tension Ch. 09",
+            "file": "224.json"
+        },
+        {
+            "title": "Between the Lines Ch. 06",
+            "file": "225.json"
+        },
+        {
+            "title": "Box Shaped Heart Ch. 22",
+            "file": "226.json"
+        },
+        {
+            "title": "Serpent's Salvation Ch. 07",
+            "file": "227.json"
+        },
+        {
+            "title": "Barbie + Ken Ch. 02",
+            "file": "228.json"
+        },
+        {
+            "title": "Finding Love after a Broken Heart 02",
+            "file": "229.json"
+        },
+        {
+            "title": "My Exception is You Ch. 06",
+            "file": "230.json"
+        },
+        {
+            "title": "The Pirate King Ch. 20",
+            "file": "231.json"
+        },
+        {
+            "title": "Not in That Way Ch. 05",
+            "file": "232.json"
+        },
+        {
+            "title": "My Exception is You Ch. 05",
+            "file": "233.json"
+        },
+        {
+            "title": "Blind Date Ch. 02: Blake's Story",
+            "file": "234.json"
+        },
+        {
+            "title": "Decoding Desires Ch. 02",
+            "file": "235.json"
+        },
+        {
+            "title": "Country Boy Ch. 02",
+            "file": "236.json"
+        }
+    ]
+}
